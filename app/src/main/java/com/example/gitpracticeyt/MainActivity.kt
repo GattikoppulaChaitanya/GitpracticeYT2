@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("second Commit")
-        today is gooddat
+        uhvkjbfgyuewbfhjbsdvdbvj
     }
 }
